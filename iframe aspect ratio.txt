@@ -1,0 +1,5 @@
+How To - Responsive Iframes
+Step 1) Add HTML:
+Use a container element, like <div>, and add the iframe inside of it:
+Step 2) Add CSS:
+Add a percentage value for padding-top to maintain the aspect ratio of the container DIV. The following example will create an aspect ratio of 16:9, which is the default aspect ratio of YouTube videos.
